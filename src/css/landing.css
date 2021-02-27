@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: "Arial";
+  list-style: none;
+  box-sizing: border-box;
+  background: #000;
+}
+
+nav {
+  position: fixed;
+  z-index: 100;
+  height: 8vh;
+  width: 96%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+}
+
+section {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.bg img {
+  width: 120vw;
+  height: 105vh;
+  filter: brightness(0.6);
+}
+
+.rock1 {
+  position: absolute !important;
+  left: 10vw !important;
+  top: 20vh !important;
+}
+
+.rock1 img {
+  width: 40%;
+  filter: brightness(0.5);
+}
+
+.text h1 {
+  font-family: "Comfortaa", cursive;
+  font-size: 5vw;
+  color: #fff;
+  letter-spacing: 20px;
+  position: absolute;
+  top: 35vh;
+  left: 34vw;
+}
+
+.intro-btn {
+  display: flex;
+  justify-content: center;
+  letter-spacing: 20px;
+  position: absolute;
+  top: 55vh;
+  left: 42.5vw;
+  letter-spacing: 20px;
+}
+
+.start {
+  margin: 0 9px;
+  color: #fff;
+  background: rgb(111, 194, 233);
+  border-radius: 2rem;
+  color: #fafafa;
+  padding: 1rem 2.5rem;
+  display: inline-block;
+  margin-top: 2rem;
+  transition: background-color 650ms;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.start:hover {
+  color: #fafafa;
+  background-color: rgba(67, 9, 143);
+}
+
+.quit {
+  margin: 0 9px;
+  color: #fff;
+  background: rgb(111, 194, 233);
+  border-radius: 2rem;
+  color: #fafafa;
+  padding: 1rem 2.5rem;
+  display: inline-block;
+  margin-top: 2rem;
+  transition: background-color 650ms;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
+.quit:hover {
+  color: #fafafa;
+  background-color: rgb(216, 37, 37);
+}
+
+.earth img {
+  width: 600px;
+  height: 600px;
+  position: absolute;
+  left: 34vw;
+  top: 25vh;
+  z-index: 1;
+  filter: brightness(0.7);
+}
+
+.mid {
+  left: -150px !important;
+  bottom: -100px !important;
+  top: unset !important;
+}
+
+.mid img {
+  width: 100%;
+  z-index: 2;
+  left: -20px;
+  top: 20vh !important;
+  filter: brightness(0.8);
+}
+
+.fore {
+  right: -40px !important;
+  bottom: -200px !important;
+  top: -10px !important;
+  left: unset !important;
+}
+
+.fore img {
+  width: 400px;
+  height: 110vh;
+  z-index: 3;
+  filter: brightness(0.5);
+}

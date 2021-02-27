@@ -1,0 +1,136 @@
+{
+  "name": "Afterlife",
+  "productName": "Afterlife",
+  "version": "1.0",
+  "description": "This application is for people who format the pc and do not want to forget any application to install.",
+  "main": "src/index.js",
+  "icon": "src/icon/afterlife.ico",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\"",
+    "build-installer": "electron-builder"
+  },
+  "keywords": [
+    "format",
+    "clean",
+    "pc",
+    "windows",
+    "win32",
+    "win64",
+    "macOS",
+    "macos",
+    "linux",
+    "after",
+    "life"
+  ],
+  "homepage": "https://aderitoneto.me/",
+  "author": {
+    "name": "Aderito Neto",
+    "email": "aderitomiguel58@gmail.com",
+    "url": "https://aderitoneto.me/"
+  },
+  "repository": {
+    "url": "https://github.com/AderitoNeto/AfterLife"
+  },
+  "build": {
+    "appId": "afterlife",
+    "productName": "AfterLife",
+    "copyright": "Copyright © 2021 ${author}",
+    "mac": {
+      "icon": "src/icon/afterlifemcos.icns",
+      "category": "Utilities"
+    },
+    "win": {
+      "icon": "src/icon/favicon.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64",
+            "ia32"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "installerIcon": "src/icon/favicon.ico",
+      "uninstallerIcon": "src/icon/favicon.ico",
+      "uninstallDisplayName": "AfterLife",
+      "license": "LICENSE",
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    },
+    "linux": {
+      "icon": "src/icon/afterlife.png",
+      "artifactName": "AfterLife.${ext}",
+      "target": [
+        "deb",
+        "rpm",
+        "appImage"
+      ],
+      "category": "Utilities"
+    },
+    "files": [
+      "src",
+      "src/css",
+      "src/js",
+      "src/icon",
+      "src/images",
+      "node_modules",
+      "src/index.js",
+      "index.html",
+      "browsers.html",
+      "comms.html",
+      "games.html",
+      "information.html",
+      "programming.html",
+      "utilities.html"
+    ],
+    "directories": {
+      "buildResources": "src/icon"
+    }
+  },
+  "license": "LICENSE",
+  "config": {
+    "forge": {
+      "packagerConfig": {},
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "Afterlife"
+          }
+        },
+        {
+          "name": "@electron-forge/maker-zip",
+          "platforms": [
+            "darwin",
+            "linux"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "config": {}
+        }
+      ]
+    }
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.54",
+    "@electron-forge/maker-deb": "^6.0.0-beta.54",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.54",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.54",
+    "@electron-forge/maker-zip": "^6.0.0-beta.54",
+    "electron": "11.3.0"
+  }
+}
