@@ -51,7 +51,7 @@ This application is for people who format the pc and do not want to forget any a
 - **Now select any program in these case i'm selecting Google Chrome**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AderitoNeto/AfterLife/master/src/images/Readme/10.PNG"/><br/>
+  <img src="https://raw.githubusercontent.com/AderitoNeto/AfterLife/master/src/images/Readme/10.png"/><br/>
 </p>
 
 - **U Will be redirected to the official website and you will see the download button**
