@@ -8,6 +8,15 @@
 This application is for people who format the pc and do not want to forget any application to install.
 <p>AfterLife is also user friendly with has left side navbar with 6 categories.</p>
 
+# Recomendation
+
+<p>If you have any recommendation to add to the app please send me a message through my socials.</p>
+[<img align="center" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/web.png"/>][website]
+[<img align="center" alt="AN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>][twitter]
+[<img align="center" alt="AN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>][linkedin]
+[<img align="center" alt="AN | Instagram" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/ig.png"/>][instagram]
+<br />
+
 ## Categories
 
 - **Browser:**  Chrome, Firefox, Opera GX, Brave, Vivaldi, Tor
@@ -65,3 +74,8 @@ This application is for people who format the pc and do not want to forget any a
 <p align="center">
   <img src="https://raw.githubusercontent.com/AderitoNeto/AfterLife/master/src/images/Readme/8.PNG"/><br/>
 </p>
+
+[website]: https://aderitoneto.github.io/
+[twitter]: https://twitter.com/L1LNT
+[instagram]: https://www.instagram.com/_clout.master_/
+[linkedin]: https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/
