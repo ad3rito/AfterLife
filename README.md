@@ -8,19 +8,10 @@
 This application is for people who format the pc and do not want to forget any application to install.
 <p>AfterLife is also user friendly with has left side navbar with 6 categories.</p>
 
-# Recomendation
+# Recomendations
 
 <p>If you have any recommendation to add to the app please send me a message through my socials.</p>
-<br>
-[<img align="left" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/web.png"/>][website]
-[<img align="left" alt="AN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>][twitter]
-[<img align="left" alt="AN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>][linkedin]
-[<img align="left" alt="AN | Instagram" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/ig.png"/>][instagram]
-<br />
-[website]: https://aderitoneto.github.io/
-[twitter]: https://twitter.com/L1LNT
-[instagram]: https://www.instagram.com/_clout.master_/
-[linkedin]: https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/
+<p>You can find them on my github profile.</p>
 
 ## Categories
 
