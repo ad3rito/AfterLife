@@ -1,7 +1,7 @@
 {
   "name": "Afterlife",
   "productName": "Afterlife",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "This application is for people who format the pc and do not want to forget any application to install.",
   "main": "src/index.js",
   "icon": "src/icon/afterlife.ico",
