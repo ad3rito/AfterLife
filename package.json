@@ -57,8 +57,7 @@
       ]
     },
     "portable":{
-      "artifactName": "AfterLife.exe",
-      "publisher": "Aderito Neto"
+      "artifactName": "AfterLife.exe"
     },
     "nsis": {
       "installerIcon": "src/icon/rocket.ico",
