@@ -11,10 +11,10 @@ This application is for people who format the pc and do not want to forget any a
 # Recomendation
 
 <p>If you have any recommendation to add to the app please send me a message through my socials.</p>
-[<img align="left" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/web.png"/>] [https://aderitoneto.github.io/]
-[<img align="left" alt="AN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>] [https://twitter.com/L1LNT]
-[<img align="left" alt="AN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>] [https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/]
-[<img align="left" alt="AN | Instagram" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/ig.png"/>] [https://www.instagram.com/_clout.master_/]
+<img align="left" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/web.png"/>https://aderitoneto.github.io/
+<img align="left" alt="AN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>https://twitter.com/L1LNT
+<img align="left" alt="AN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/
+<img align="left" alt="AN | Instagram" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/ig.png"/> https://www.instagram.com/_clout.master_/
 <br />
 
 ## Categories
