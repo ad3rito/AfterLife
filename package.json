@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "This application is for people who format the pc and do not want to forget any application to install.",
   "main": "src/index.js",
-  "icon": "src/icon/afterlife.ico",
+  "icon": "src/icon/rocket.ico",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
@@ -40,11 +40,11 @@
     "productName": "AfterLife",
     "copyright": "Copyright © 2021 ${author}",
     "mac": {
-      "icon": "src/icon/afterlifemcos.icns",
+      "icon": "src/icon/rocket.icns",
       "category": "Utilities"
     },
     "win": {
-      "icon": "src/icon/favicon.ico",
+      "icon": "src/icon/rocket.ico",
       "target": [
         {
           "target": "nsis",
@@ -56,15 +56,15 @@
       ]
     },
     "nsis": {
-      "installerIcon": "src/icon/favicon.ico",
-      "uninstallerIcon": "src/icon/favicon.ico",
+      "installerIcon": "src/icon/rocket.ico",
+      "uninstallerIcon": "src/icon/rocket.ico",
       "uninstallDisplayName": "AfterLife",
       "license": "LICENSE",
       "oneClick": false,
       "allowToChangeInstallationDirectory": true
     },
     "linux": {
-      "icon": "src/icon/afterlife.png",
+      "icon": "src/icon/rocket.png",
       "artifactName": "AfterLife.${ext}",
       "target": [
         "deb",

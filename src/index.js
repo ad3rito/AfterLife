@@ -17,7 +17,7 @@ async function createWindow() {
 		minWidth: 1920,
     minHeight: 1080,
     title: "AfterLife",
-    "icon": "src/icon/favicon.ico",
+    "icon": "src/icon/rocket.ico",
 		webPreferences: {
       nodeIntegration: true,
       enableRemoteModule: false,  // turn off remote
