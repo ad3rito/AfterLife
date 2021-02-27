@@ -46,6 +46,7 @@
     "win": {
       "icon": "src/icon/rocket.ico",
       "target": [
+        "portable",
         {
           "target": "nsis",
           "arch": [
@@ -54,6 +55,10 @@
           ]
         }
       ]
+    },
+    "portable":{
+      "artifactName": "AfterLife.exe",
+      "publisher": "Aderito Neto"
     },
     "nsis": {
       "installerIcon": "src/icon/rocket.ico",
