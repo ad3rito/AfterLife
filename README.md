@@ -8,10 +8,14 @@
 This application is for people who format the pc and do not want to forget any application to install.
 <p>AfterLife is also user friendly with has left side navbar with 6 categories.</p>
 
-# Recomendations
+# Suggestions 💡
 
-<p>If you have any recommendation to add to the app please send me a message through my socials.</p>
-<p>You can find them on my github profile.</p>
+<p>If you have any recommendation or suggestions to add to the app please send me a message through my socials.</p>
+<p>Website 🌐: https://aderitoneto.me/</p>
+<p>Twitter 🐤: https://twitter.com/L1LNT</p>
+<p>Instagram 📷: https://www.instagram.com/_clout.master_/</p>
+<p>LinkedIn 💼: https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/</p>
+
 
 ## Categories
 
