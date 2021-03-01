@@ -56,7 +56,7 @@
         }
       ]
     },
-    "portable":{
+    "portable": {
       "artifactName": "AfterLife.exe"
     },
     "nsis": {
@@ -127,7 +127,8 @@
     }
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-squirrel-startup": "^1.0.0",
+    "wizard": "^2.0.0"
   },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.54",
