@@ -3,12 +3,12 @@
   Let's bring the computer back to life!
 </p>
 
-[Download Here!](https://github.com/AderitoNeto/AfterLife/releases/download/1.0.0/AfterLife.Portable.exe)
-
 # Introduction
 
 This application is for people who format the pc and do not want to forget any application to install.
 <p>AfterLife is also user friendly with has left side navbar with 6 categories.</p>
+
+[Download Here!](https://github.com/AderitoNeto/AfterLife/releases/download/1.0.0/AfterLife.Portable.exe)
 
 # Suggestions 💡
 
