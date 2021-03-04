@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AderitoNeto/AfterLife/Master/src/images/Readme/1.PNG" alt="Afterlife"/><br/>
-  Let's bring the computer back to life!
+  Let's bring back your computer to life!
 </p>
 
 # Introduction
