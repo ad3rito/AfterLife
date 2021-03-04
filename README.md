@@ -3,6 +3,8 @@
   Let's bring the computer back to life!
 </p>
 
+[Download Here!](https://github.com/AderitoNeto/AfterLife/releases/download/1.0.0/AfterLife.Portable.exe)
+
 # Introduction
 
 This application is for people who format the pc and do not want to forget any application to install.
@@ -11,10 +13,14 @@ This application is for people who format the pc and do not want to forget any a
 # Suggestions 💡
 
 <p>If you have any recommendation or suggestions to add to the app please send me a message through my socials.</p>
-<p>Website 🌐: https://aderitoneto.me/</p>
-<p>Twitter 🐤: https://twitter.com/L1LNT</p>
-<p>Instagram 📷: https://www.instagram.com/_clout.master_/</p>
-<p>LinkedIn 💼: https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/</p>
+
+[Website](https://aderitoneto.me)
+
+[LinkedIn](https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6)
+
+[Twitter](https://twitter.com/L1LNT)
+
+[Instagram](https://www.instagram.com/_clout.master_)
 
 
 ## Categories
